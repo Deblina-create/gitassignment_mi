@@ -9,3 +9,8 @@
     <body>
         Hej och välkommen till hemsidan.
     </body>
+
+## css
+    body {
+        color: red;
+    }
